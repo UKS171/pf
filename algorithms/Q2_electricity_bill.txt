@@ -1,0 +1,9 @@
+Algorithm: Calculate Electricity Bill
+
+1. Start.
+2. Input consumed units and price per unit.
+3. Calculate bill = consumed_units * price_per_unit.
+4. Display the electricity bill.
+5. Stop.
+
+Note: This is a basic calculation before taxes, fixed charges, or other adjustments.

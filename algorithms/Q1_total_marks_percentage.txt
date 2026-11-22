@@ -1,0 +1,9 @@
+Algorithm: Calculate Total Marks and Percentage in Five Subjects
+
+1. Start.
+2. Input marks of five subjects: m1, m2, m3, m4, and m5.
+3. Calculate total = m1 + m2 + m3 + m4 + m5.
+4. Calculate percentage = (total / 500) * 100.
+   (Assumption: each subject is out of 100 marks.)
+5. Display total and percentage.
+6. Stop.
