@@ -1,0 +1,7 @@
+STUDENT DETAILS
+
+Name: Umm-e-Kalsoom Saeed
+Semester: 1st Semester
+Program / Department: ADP Computer Science (ADP CS)
+Course: Programming Fundamentals (PF)
+Assignment: Assignment 1
