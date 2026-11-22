@@ -1,9 +1,1 @@
-PF ASSIGNMENT 1
 
-Before submitting:
-1. Replace/add your personal details if your teacher requires them.
-2. Check that all 10 questions are included.
-3. Open the flowchart Markdown files on GitHub to view the Mermaid diagrams.
-4. Upload the extracted PF_Assignment_1 folder contents to your GitHub repository.
-
-Student details supplied: Umm-e-Kalsoom Saeed, 1st Semester, ADP Computer Science (ADP CS). Roll number, section, and instructor name were not provided.
